@@ -1,2 +1,2 @@
-# common_pages
-common pages on websites
+# common-pages
+Common pages on websites
