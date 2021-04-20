@@ -1,5 +1,5 @@
 {
-  "name": "common_pages",
+  "name": "common-pages",
   "version": "0.0.1",
   "description": "common pages on websites",
   "scripts": {
@@ -21,14 +21,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gmdr1024/common_pages.git"
+    "url": "git+https://github.com/gmdr1024/common-pages.git"
   },
   "author": "gmdr1024 (https://github.com/gmdr1024)",
   "license": "CC0-1.0",
   "bugs": {
-    "url": "https://github.com/gmdr1024/common_pages/issues"
+    "url": "https://github.com/gmdr1024/common-pages/issues"
   },
-  "homepage": "https://github.com/gmdr1024/common_pages#readme",
+  "homepage": "https://github.com/gmdr1024/common-pages#readme",
   "devDependencies": {
     "autoprefixer": "^10.0.4",
     "browser-sync": "^2.26.13",
